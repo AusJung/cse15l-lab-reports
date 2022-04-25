@@ -15,7 +15,7 @@ The symptom is an infinite loop that doesn't allow the program to end. This is b
 Above is what the error showed on the terminal.
 
 The symptom is an index out of bounds that doesn't allow the program to end. This is because there is a bug in our code that does not know what to do when there is no parenthesis. The program did not know what to do because it could not find the parenthesis in the input. 
-### 2. Bug 3: 
+### 2. Bug 3: () instead of []
 ![](image11.png)
 
 [Link](https://github.com/AusJung/markdown-parser/blob/fbcde334833139f4a57d753f102d18daea533ced/test-file3.md) to file that caused problems
