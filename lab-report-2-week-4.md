@@ -16,9 +16,10 @@ The symptom is an index out of bounds that doesn't allow the program to end. Thi
 ### 2. Bug 3: 
 ![](image11.png)
 [Link](https://github.com/AusJung/markdown-parser/blob/fbcde334833139f4a57d753f102d18daea533ced/test-file3.md) to file that caused problems
-```
-[page.com]
-```
+
+
+`[page.com]`
+
 Above is what the error showed on the terminal.
 
 The failure inducing input contains a space after the bracket which is considered a faulty input from our code. The code that is printed is the symptom, which shows the text in parenthesis instead of brackets.
