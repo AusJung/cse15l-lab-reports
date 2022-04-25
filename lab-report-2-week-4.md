@@ -1,4 +1,4 @@
-# Week 2 Lab Report (1)
+# Week 2 Lab Report (2)
 ### Bug 1: Infinite looping when there is an extra return in the end of the file
 ![](image7.png)
 [Link](https://github.com/AusJung/markdown-parser/blob/f90aaec6a7b34d30eae902f7f6d46fa29d88d44e/test-file.md) to file that caused problems
