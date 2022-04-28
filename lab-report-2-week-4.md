@@ -21,7 +21,7 @@ The symptom is an index out of bounds that doesn't allow the program to end. Thi
 [Link](https://github.com/AusJung/markdown-parser/blob/fbcde334833139f4a57d753f102d18daea533ced/test-file3.md) to file that caused problems
 
 
-`[page.com]`
+![](image12.png)
 
 Above is what the error showed on the terminal.
 
