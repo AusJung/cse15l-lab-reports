@@ -6,6 +6,8 @@
 
 [Lab Report 3](https://ausjung.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
+[Lab Report 4](https://ausjung.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
+
 ### Heading 2
 Testing *Italic* vc Testing **Bold**
 
