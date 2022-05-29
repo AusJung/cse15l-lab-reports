@@ -9,15 +9,11 @@ The VSCode preview shows that Snippet 1 should have the expected output:
 
 ![](image22.png)
 
-Here is the code I wrote in `MarkdownParseTest.java`, along with it running and testing succesfully.
-
-![](image23.png)
-
-As shown above, my test passed properly. Here is an image of the green checkmark being a little bigger.
+Here is the code I wrote in `MarkdownParseTest.java`, along with it running and testing succesfully. (Terminal is in the picture)
 
 ![](image30.png)
 
-For the implementation I reviewed in Week 7, it also passed for the first md file.
+For the implementation I reviewed in Week 7, it also passed for the first md file: (Terminal is in the picture)
 
 ![](image31.png)
 
@@ -30,9 +26,7 @@ Here is the code I wrote in `MarkdownParseTest.java`.
 
 ![](image25.png)
 
-As you can see above, it did not pass my test. Here is a more clear image of the error that it ran through when running. 
-
-![](image26.png)
+As you can see above, it did not pass my test. 
 
 For the implementation I reviewed in Week 7, it also did not pass for the second md file.
 
@@ -47,9 +41,7 @@ Here is the code I wrote in `MarkdownParseTest.java`.
 
 ![](image28.png)
 
-As you can see above, it did not pass my test. Here is a more clear image of the error that it ran through when running. 
-
-![](image29.png)
+As you can see above, it did not pass my test.
 
 For the implementation I reviewed in Week 7, it also did not pass for the third md file.
 

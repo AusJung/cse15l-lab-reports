@@ -1,5 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
 make: Entering directory `/Users/austin/Documents/GitHub/cse15l-lab-reports'
-make: Leaving directory `/Users/austin/Documents/GitHub/cse15l-lab-reports'
  
 make: *** No targets specified and no makefile found.  Stop.
 
+make: Leaving directory `/Users/austin/Documents/GitHub/cse15l-lab-reports'
+ 
